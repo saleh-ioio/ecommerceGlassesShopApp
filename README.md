@@ -1,4 +1,4 @@
-# waleed_optics_app
+# glasses and lenses ecommerce app 
 
 A new Flutter project.
 
